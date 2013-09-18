@@ -5,7 +5,7 @@ With this extension, you can define the default limit values for various grids.
 Facts
 -----
 - version: 0.1.0
-- [extension on GitHub](https://github.com/company/Spranks_GridLimits)
+- [extension on GitHub](https://github.com/sprankhub/Spranks_GridLimits)
 - [direct download link](https://github.com/sprankhub/Spranks_GridLimits/archive/master.zip)
 
 Description
@@ -35,7 +35,7 @@ Uninstallation
 
 Support
 -------
-If you have any issues with this extension, open an issue on [GitHub](https://github.com/company/Spranks_GridLimits/issues).
+If you have any issues with this extension, open an issue on [GitHub](https://github.com/sprankhub/Spranks_GridLimits/issues).
 
 Contribution
 ------------
