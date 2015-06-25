@@ -3,7 +3,7 @@
     <sections>
         <admin>
             <groups>
-                <gridlimits translate="label" module="germansetup">
+                <gridlimits translate="label">
                     <label>Default Grid Limits</label>
                     <frontend_type>text</frontend_type>
                     <sort_order>900</sort_order>
